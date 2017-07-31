@@ -6,6 +6,10 @@ balanced-match@^1.0.0:
   version "1.0.0"
   resolved "http://registry.npm.taobao.org/balanced-match/download/balanced-match-1.0.0.tgz#89b4d199ab2bee49de164ea02b89ce462d71b767"
 
+bmp-js@^0.0.3:
+  version "0.0.3"
+  resolved "http://registry.npm.taobao.org/bmp-js/download/bmp-js-0.0.3.tgz#64113e9c7cf1202b376ed607bf30626ebe57b18a"
+
 brace-expansion@^1.0.0:
   version "1.1.8"
   resolved "http://registry.npm.taobao.org/brace-expansion/download/brace-expansion-1.1.8.tgz#c07b211c7c952ec1f8efd51a77ef0d1d3990a292"
@@ -69,6 +73,10 @@ inherits@2, inherits@~2.0.1:
 isarray@0.0.1:
   version "0.0.1"
   resolved "http://registry.npm.taobao.org/isarray/download/isarray-0.0.1.tgz#8a18acfca9a8f4177e09abfc6038939b05d1eedf"
+
+jpeg-js@^0.3.3:
+  version "0.3.3"
+  resolved "http://registry.npm.taobao.org/jpeg-js/download/jpeg-js-0.3.3.tgz#4d60ea7188d1a7598e92f0a8cdcaf5d78286bea6"
 
 minimatch@^2.0.1:
   version "2.0.10"

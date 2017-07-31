@@ -4,7 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "bmp-js": "^0.0.3",
     "gifencoder": "^1.1.0",
+    "jpeg-js": "^0.3.3",
     "png-file-stream": "^1.0.0"
   }
 }
